@@ -1,0 +1,16 @@
+D:\DATA C\source\repos\KasirApp\KasirApp\obj\Debug\KasirApp.csproj.AssemblyReference.cache
+D:\DATA C\source\repos\KasirApp\KasirApp\obj\Debug\KasirApp.LoginForm.resources
+D:\DATA C\source\repos\KasirApp\KasirApp\obj\Debug\KasirApp.GudangForm.resources
+D:\DATA C\source\repos\KasirApp\KasirApp\obj\Debug\KasirApp.KasirForm.resources
+D:\DATA C\source\repos\KasirApp\KasirApp\obj\Debug\KasirApp.Properties.Resources.resources
+D:\DATA C\source\repos\KasirApp\KasirApp\obj\Debug\KasirApp.RegisterForm.resources
+D:\DATA C\source\repos\KasirApp\KasirApp\obj\Debug\KasirApp.TambahBarang.resources
+D:\DATA C\source\repos\KasirApp\KasirApp\obj\Debug\KasirApp.csproj.GenerateResource.cache
+D:\DATA C\source\repos\KasirApp\KasirApp\obj\Debug\KasirApp.csproj.CoreCompileInputs.cache
+D:\DATA C\source\repos\KasirApp\KasirApp\bin\Debug\KasirApp.exe.config
+D:\DATA C\source\repos\KasirApp\KasirApp\bin\Debug\KasirApp.exe
+D:\DATA C\source\repos\KasirApp\KasirApp\bin\Debug\KasirApp.pdb
+D:\DATA C\source\repos\KasirApp\KasirApp\obj\Debug\KasirApp.exe
+D:\DATA C\source\repos\KasirApp\KasirApp\obj\Debug\KasirApp.pdb
+D:\DATA C\source\repos\KasirApp\KasirApp\obj\Debug\KasirApp.FrmEdit.resources
+D:\DATA C\source\repos\KasirApp\KasirApp\obj\Debug\KasirApp.exe.config

@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DATA C\\source\\repos\\KasirApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|d:\\data c\\source\\repos\\kasirapp\\kasirapp\\gudangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:kasirapp\\gudangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\GudangForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:KasirApp\\GudangForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\kasirapp\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:kasirapp\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\kasirapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:kasirapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\kasirapp\\tambahbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:kasirapp\\tambahbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\kasirapp\\kasirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:kasirapp\\kasirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\kasirapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:kasirapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\RegisterForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:KasirApp\\RegisterForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\TambahBarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:KasirApp\\TambahBarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:KasirApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\KasirForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:KasirApp\\KasirForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:KasirApp\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\KasirForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:KasirApp\\KasirForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\TambahBarang.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:KasirApp\\TambahBarang.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\GudangForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:KasirApp\\GudangForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\RegisterForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:KasirApp\\RegisterForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:KasirApp\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:KasirApp\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D265BE1-608E-4D03-AD47-03D8C8E4EE70}|KasirApp\\KasirApp.csproj|solutionrelative:KasirApp\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1090,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GudangForm.cs [Design]",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\GudangForm.cs",
+              "RelativeDocumentMoniker": "KasirApp\\GudangForm.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\GudangForm.cs [Design]*",
+              "RelativeToolTip": "KasirApp\\GudangForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:10:25.631Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GudangForm.cs",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\GudangForm.cs",
+              "RelativeDocumentMoniker": "KasirApp\\GudangForm.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\GudangForm.cs*",
+              "RelativeToolTip": "KasirApp\\GudangForm.cs*",
+              "ViewState": "AgIAAJIAAAAAAAAAAAD4v6kAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:21:34.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmEdit.cs [Design]",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\FrmEdit.cs",
+              "RelativeDocumentMoniker": "KasirApp\\FrmEdit.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\FrmEdit.cs [Design]",
+              "RelativeToolTip": "KasirApp\\FrmEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:14:26.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "KasirApp\\RegisterForm.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "KasirApp\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:05:13.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TambahBarang.cs [Design]",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\TambahBarang.cs",
+              "RelativeDocumentMoniker": "KasirApp\\TambahBarang.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\TambahBarang.cs [Design]",
+              "RelativeToolTip": "KasirApp\\TambahBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:40:12.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KasirForm.cs [Design]",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\KasirForm.cs",
+              "RelativeDocumentMoniker": "KasirApp\\KasirForm.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\KasirForm.cs [Design]",
+              "RelativeToolTip": "KasirApp\\KasirForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:16:41.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\Form1.cs",
+              "RelativeDocumentMoniker": "KasirApp\\Form1.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\Form1.cs [Design]",
+              "RelativeToolTip": "KasirApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:02:22.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "KasirApp\\RegisterForm.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\RegisterForm.cs",
+              "RelativeToolTip": "KasirApp\\RegisterForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:45:21.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TambahBarang.cs",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\TambahBarang.cs",
+              "RelativeDocumentMoniker": "KasirApp\\TambahBarang.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\TambahBarang.cs",
+              "RelativeToolTip": "KasirApp\\TambahBarang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:40:15.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\Program.cs",
+              "RelativeDocumentMoniker": "KasirApp\\Program.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\Program.cs",
+              "RelativeToolTip": "KasirApp\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:39:32.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KasirForm.cs",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\KasirForm.cs",
+              "RelativeDocumentMoniker": "KasirApp\\KasirForm.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\KasirForm.cs",
+              "RelativeToolTip": "KasirApp\\KasirForm.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAAAMMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:18:07.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\Form1.cs",
+              "RelativeDocumentMoniker": "KasirApp\\Form1.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\Form1.cs",
+              "RelativeToolTip": "KasirApp\\Form1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:02:44.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KasirForm.Designer.cs",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\KasirForm.Designer.cs",
+              "RelativeDocumentMoniker": "KasirApp\\KasirForm.Designer.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\KasirForm.Designer.cs",
+              "RelativeToolTip": "KasirApp\\KasirForm.Designer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAIAwwFMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:16:46.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TambahBarang.Designer.cs",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\TambahBarang.Designer.cs",
+              "RelativeDocumentMoniker": "KasirApp\\TambahBarang.Designer.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\TambahBarang.Designer.cs",
+              "RelativeToolTip": "KasirApp\\TambahBarang.Designer.cs",
+              "ViewState": "AgIAAJgBAAAAAAAAAAAAwKoBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:40:20.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GudangForm.Designer.cs",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\GudangForm.Designer.cs",
+              "RelativeDocumentMoniker": "KasirApp\\GudangForm.Designer.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\GudangForm.Designer.cs",
+              "RelativeToolTip": "KasirApp\\GudangForm.Designer.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAswNgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:10:30.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "KasirApp\\RegisterForm.Designer.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "KasirApp\\RegisterForm.Designer.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAjwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:05:18.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "KasirApp\\Form1.Designer.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\Form1.Designer.cs",
+              "RelativeToolTip": "KasirApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAjwI0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:03:16.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "KasirApp\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "KasirApp\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:12:24.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\App.config",
+              "RelativeDocumentMoniker": "KasirApp\\App.config",
+              "ToolTip": "D:\\DATA C\\source\\repos\\KasirApp\\KasirApp\\App.config",
+              "RelativeToolTip": "KasirApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-23T14:20:55.993Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 328,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
